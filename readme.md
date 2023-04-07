@@ -1,14 +1,14 @@
 ---
-title: Final Report
-subtitle: Analyzing the Popularity of Different Categories of Sports Using Digital Tools.
-author: Aryan Singh
-category: digital humanities
-template: final_report
-fontfamily: sans-serif
-class: IASC 2P02
-professor: Dr. Aaron Mauro
-school: Brock University
-date: 7th April, 2023
+Title: Final Report
+Subtitle: Analyzing the Popularity of Different Categories of Sports Using Digital Tools.
+Author: Aryan Singh
+Category: digital humanities
+Template: final_report
+Fontfamily: sans-serif
+Class: IASC 2P02
+Professor: Dr. Aaron Mauro
+School: Brock University
+Date: 7th April, 2023
 ---
 
 # Abstract
